@@ -1,0 +1,5 @@
+# ignore generated files
+/config.h
+/*.o
+/dwm
+.orig
